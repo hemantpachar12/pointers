@@ -10,3 +10,4 @@ Pointers can be used to pass values between functions. When a pointer is passed 
 It is important to be careful when using pointers to avoid common errors like dereferencing null pointers, dereferencing uninitialized pointers, or accessing memory outside the bounds of an allocated block. Memory leaks can also occur when dynamically allocating memory without deallocating it properly, which can lead to programs that consume excessive amounts of memory and run out of resources.
 
 In summary, pointers are a powerful and flexible feature of C that allow programmers to manipulate memory directly and create complex data structures. However, pointers can be tricky to use correctly, so it's important to understand how they work and be aware of common pitfalls when working with them.
+# output
